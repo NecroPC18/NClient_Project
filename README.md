@@ -12,4 +12,5 @@
   7. Send messages in different formats
 *The software needs an FTP server to communicate with the victim's device, anytime and anywhere (requires internet access)
 *There are some antivirus that can detect the payload
-The tool will relased soon ...
+
+tool will be relased soon ...
