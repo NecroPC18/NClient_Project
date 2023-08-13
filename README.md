@@ -14,3 +14,4 @@
 *There are some antivirus that can detect the payload
 
 tool will be relased soon ...
+./Anyone can participate in the development of the project by sending a message to the following email "mouhammed2008522@gmail.com"
